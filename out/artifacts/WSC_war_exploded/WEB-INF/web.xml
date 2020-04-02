@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<web-app xmlns="http://xmlns.jcp.org/xml/ns/javaee"
+         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="http://xmlns.jcp.org/xml/ns/javaee http://xmlns.jcp.org/xml/ns/javaee/web-app_4_0.xsd"
+         version="4.0">
+
+
+
+
+    <servlet>
+        <servlet-name>EventsSearchServlet</servlet-name>
+        <servlet-class>com.watersafety.web.jdbc.eventSearchServlet</servlet-class>
+    </servlet>
+
+    <servlet-mapping>
+        <servlet-name>EventsSearchServlet</servlet-name>
+        <url-pattern>/eventSearch</url-pattern>
+    </servlet-mapping>
+
+    <servlet>
+        <servlet-name>EventsAdminServlet</servlet-name>
+        <servlet-class>com.watersafety.web.jdbc.EventsAdminServlet</servlet-class>
+    </servlet>
+
+    <servlet-mapping>
+        <servlet-name>EventsAdminServlet</servlet-name>
+        <url-pattern>/eventsAdmin</url-pattern>
+    </servlet-mapping>
+
+
+    <servlet>
+        <servlet-name>EventsInsertServlet</servlet-name>
+        <servlet-class>com.watersafety.web.jdbc.EventsInsertServlet</servlet-class>
+    </servlet>
+
+    <servlet-mapping>
+        <servlet-name>EventsInsertServlet</servlet-name>
+        <url-pattern>/eventsInsert</url-pattern>
+    </servlet-mapping>
+
+
+    <servlet>
+        <servlet-name>EventsDeleteServlet</servlet-name>
+        <servlet-class>com.watersafety.web.jdbc.EventsdeletServlet</servlet-class>
+    </servlet>
+
+    <servlet-mapping>
+        <servlet-name>EventsDeleteServlet</servlet-name>
+        <url-pattern>/eventsDelete</url-pattern>
+    </servlet-mapping>
+
+    <servlet>
+        <servlet-name>EventdUpdateServlet</servlet-name>
+        <servlet-class>com.watersafety.web.jdbc.EventsUpdate</servlet-class>
+    </servlet>
+
+    <servlet-mapping>
+        <servlet-name>EventdUpdateServlet</servlet-name>
+        <url-pattern>/eventUpdate</url-pattern>
+    </servlet-mapping>
+
+
+    <welcome-file-list>
+        <welcome-file>landingpage.jsp</welcome-file>
+    </welcome-file-list>
+</web-app>
