@@ -116,13 +116,25 @@
                             <p>${provider.note}</p>
 
                             <p><b>Location:</b></p>
+                            ${provider.map}
                             <p><a href="http://maps.google.com/?q=${provider.address} ${provider.suburb} ${provider.postcode}">${provider.address} ${provider.suburb} ${provider.postcode}</a></p>
 
                             <c:if test="${!provider.type.equals('Beach')}">
                                 <p><b>Contact:</b></p>
-                                <p>${provider.contactPerson} &nbsp;&nbsp;${provider.phone} &nbsp;&nbsp;${provider.email}</p>
+
+                                <c:choose>
+                                    <c:when test="${provider.contactPerson.equals('') && provider.phone.equals('') && provider.email.equals('')}">
+                                        <p>no data</p>
+                                    </c:when>
+                                    <c:otherwise>
+                                        <p>${provider.contactPerson} &nbsp;&nbsp;${provider.phone} &nbsp;&nbsp;${provider.email}</p>
+                                    </c:otherwise>
+                                </c:choose>
                             </c:if>
-                            <p><b>Link: </b><a href="${provider.website}">${provider.website}</a></p>
+                            <c:if test="${!provider.website.equals('')}">
+                                <p><b>Link: </b><a href="${provider.website}">${provider.website}</a></p>
+                            </c:if>
+
                         </div>
                     </div>
                 </div>
@@ -164,6 +176,7 @@
                         <p>${provider.note}</p>
 
                         <p><b>Location:</b></p>
+                        ${provider.map}
                         <p><a href="http://maps.google.com/?q=${provider.address} ${provider.suburb} ${provider.postcode}">${provider.address} ${provider.suburb} ${provider.postcode}</a></p>
 
                         <c:if test="${!provider.type.equals('Beach')}">

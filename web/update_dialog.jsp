@@ -81,10 +81,10 @@
             <label>Type</label>
             <select name="type">
                 <option value='none' disabled selected>Select a resource...</option>
-                <option value="Pool">Pool</option>
-                <option value="Club">Club</option>
-                <option value="School">School</option>
-                <option value="Other">other activity</option>
+                <option value="Swimming Pool">Swimming Pool</option>
+                <option value="Swim Club">Swim Club</option>
+                <option value="Swim School">Swim School</option>
+                <option value="Other Activities">other activity</option>
             </select>
         </div>
         <div class="form-group col-md-6">
@@ -124,6 +124,12 @@
         <input name="address" placeholder="Street" style="width:33%;margin-right: 2%">
         <input name="suburb" placeholder="Suburb" style="width: 33%;margin-right: 2%">
         <input name="postcode" placeholder="Postcode" style="width:20%">
+    </div>
+
+    <div class="form-group">
+        <label>Google Map Embed Code</label>
+        <br>
+        <textarea name="map" placeholder="Please go to map.google.com, select the location, click share and embed a map, copy the code and paste it here" style="width: 100%"></textarea>
     </div>
 
     <%--            submit button--%>
@@ -172,6 +178,12 @@
             <input name="suburb" id="beach_suburb" placeholder="Suburb" style="width: 33%;margin-right: 2%">
             <input name="postcode" id="beach_postcode" placeholder="Postcode" style="width:20%">
         </div>
+
+            <div class="form-group">
+                <label>Google Map Embed Code</label>
+                <br>
+                <textarea name="map" placeholder="Please go to map.google.com, select the location, click share and embed a map, copy the code and paste it here" style="width: 100%"></textarea>
+            </div>
 
         <%--            submit button--%>
         <button href="" class="easyui-linkbutton c6" iconCls="icon-ok" style="width:90px;margin-top: 2%">Save</button>
