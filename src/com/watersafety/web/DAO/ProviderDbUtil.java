@@ -129,11 +129,12 @@ public class ProviderDbUtil {
                 String phone=myRs.getString("phone");
                 String email=myRs.getString("email");
                 String website=myRs.getString("website");
+                String map=myRs.getString("map");
 
 
 
                 Provider tempProvider = new Provider(id, region,type,resName,note,address,suburb,postcode,contactPerson
-                        ,phone,email,website);
+                        ,phone,email,website,map);
 
                 providers.add(tempProvider);
             }
