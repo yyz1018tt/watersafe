@@ -70,7 +70,7 @@
     <c:if test="${PROVIDER != null}">
         <div class="alert alert-success" role="alert">
             <h4 class="alert-heading">What you have chosen:</h4>
-            <h9 style="font-weight: bold; ">Language:</h9>
+            <h9 style="font-weight: bold; ">Region:</h9>
             <c:forEach var="select" items="${SELECTREG}">
                 <p style="line-height: 5%;display: inline">&#8226${select}</p>
             </c:forEach>
@@ -127,7 +127,9 @@
                                         <p>no data</p>
                                     </c:when>
                                     <c:otherwise>
-                                        <p>${provider.contactPerson} &nbsp;&nbsp;${provider.phone} &nbsp;&nbsp;${provider.email}</p>
+                                      <p><strong>Name: ${provider.contactPerson}</strong></p>
+                                      <p><strong>Phone: ${provider.phone}</strong></p>
+                                      <p><strong>Email: ${provider.email}</strong></p>
                                     </c:otherwise>
                                 </c:choose>
                             </c:if>
@@ -181,7 +183,9 @@
 
                         <c:if test="${!provider.type.equals('Beach')}">
                             <p><b>Contact:</b></p>
-                            <p>${provider.contactPerson} &nbsp;&nbsp;${provider.phone} &nbsp;&nbsp;${provider.email}</p>
+                          <p><strong>Name: ${provider.contactPerson} </strong></p>
+                          <p><strong>Phone: ${provider.phone} </strong></p>
+                          <p><strong>Email: ${provider.email}</strong></p>
                         </c:if>
                         <p><b>Link: </b><a href="${provider.website}">${provider.website}</a></p>
                     </div>
