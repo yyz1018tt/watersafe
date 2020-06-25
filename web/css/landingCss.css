@@ -61,6 +61,11 @@ float: left;
 padding: 30px;
 }
 
+.logo_box img{
+    margin-left: 30px;
+    margin-top: 10px;
+}
+
 .left 
 {
 width: 50%;
@@ -117,6 +122,8 @@ clear: both;
     background: white;
     transition: background 500ms;
 }
+
+
 
 #mainNav.navbar.scrolled .navbar-brand{color:#212529}
 

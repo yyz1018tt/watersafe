@@ -15,8 +15,9 @@ public class Provider
     private String phone;
     private String email;
     private String website;
+    private String map;
 
-    public Provider(int id, String region, String type, String resName, String note, String address, String suburb, String postcode, String contactPerson, String phone, String email, String website) {
+    public Provider(int id, String region, String type, String resName, String note, String address, String suburb, String postcode, String contactPerson, String phone, String email, String website, String map) {
         this.id = id;
         this.region = region;
         this.type = type;
@@ -29,6 +30,7 @@ public class Provider
         this.phone = phone;
         this.email = email;
         this.website = website;
+        this.map= map;
     }
 
     public Provider(String region, String type, String resName, String note, String address, String suburb, String postcode, String contactPerson, String phone, String email, String website) {
@@ -140,4 +142,8 @@ public class Provider
     public void setWebsite(String website) {
         this.website = website;
     }
+
+    public String getMap() {return map;}
+
+    public void setMap(String map) {this.map=map;}
 }

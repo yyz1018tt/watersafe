@@ -2,11 +2,70 @@
 <project version="4">
   <component name="ArtifactsWorkspaceSettings">
     <artifacts-to-build>
-      <artifact name="WSC:war15" />
+      <artifact name="WSC:war27" />
     </artifacts-to-build>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="95592416-398a-4115-b93d-934ac92993af" name="Default Changelist" comment="" />
+    <list default="true" id="95592416-398a-4115-b93d-934ac92993af" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/artifacts/WSC_war16.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/artifacts/WSC_war17.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/artifacts/WSC_war18.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/artifacts/WSC_war19.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/artifacts/WSC_war20.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/artifacts/WSC_war21.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/artifacts/WSC_war22.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/artifacts/WSC_war23.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/artifacts/WSC_war24.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/artifacts/WSC_war25.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources/8b60f918-5cce-4b8b-834a-01422da6e1da.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources/8b60f918-5cce-4b8b-834a-01422da6e1da.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/WSC_war_exploded/Events.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/out/artifacts/WSC_war_exploded/Events.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/WSC_war_exploded/META-INF/context.xml" beforeDir="false" afterPath="$PROJECT_DIR$/out/artifacts/WSC_war_exploded/META-INF/context.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/WSC_war_exploded/WEB-INF/classes/com/watersafety/web/DAO/ProviderDao.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/artifacts/WSC_war_exploded/WEB-INF/classes/com/watersafety/web/DAO/ProviderDao.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/WSC_war_exploded/WEB-INF/classes/com/watersafety/web/DAO/ProviderDbUtil.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/artifacts/WSC_war_exploded/WEB-INF/classes/com/watersafety/web/DAO/ProviderDbUtil.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/WSC_war_exploded/WEB-INF/classes/com/watersafety/web/jdbc/AddBeachServlet.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/artifacts/WSC_war_exploded/WEB-INF/classes/com/watersafety/web/jdbc/AddBeachServlet.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/WSC_war_exploded/WEB-INF/classes/com/watersafety/web/jdbc/AddProviderServlet.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/artifacts/WSC_war_exploded/WEB-INF/classes/com/watersafety/web/jdbc/AddProviderServlet.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/WSC_war_exploded/WEB-INF/classes/com/watersafety/web/jdbc/SendEmail.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/artifacts/WSC_war_exploded/WEB-INF/classes/com/watersafety/web/jdbc/SendEmail.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/WSC_war_exploded/WEB-INF/classes/com/watersafety/web/model/Provider.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/artifacts/WSC_war_exploded/WEB-INF/classes/com/watersafety/web/model/Provider.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/WSC_war_exploded/addrecord.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/WSC_war_exploded/admin.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/out/artifacts/WSC_war_exploded/admin.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/WSC_war_exploded/css/landingCss.css" beforeDir="false" afterPath="$PROJECT_DIR$/out/artifacts/WSC_war_exploded/css/landingCss.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/WSC_war_exploded/footer.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/out/artifacts/WSC_war_exploded/footer.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/WSC_war_exploded/landingpage.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/out/artifacts/WSC_war_exploded/landingpage.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/WSC_war_exploded/logo_img/IMG_5424.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/WSC_war_exploded/logo_img/SLSNSW_Portrait_CMYK.eps" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/WSC_war_exploded/logo_img/SSC_Logotype Crest_CMYK_NavyBlue.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/WSC_war_exploded/resource.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/out/artifacts/WSC_war_exploded/resource.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/WSC_war_exploded/siwmmingpool.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/out/artifacts/WSC_war_exploded/siwmmingpool.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/WSC_war_exploded/update_dialog.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/out/artifacts/WSC_war_exploded/update_dialog.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/WSC/META-INF/WSC.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/WSC/com/watersafety/web/DAO/ProviderDao.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/WSC/com/watersafety/web/DAO/ProviderDao.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/WSC/com/watersafety/web/DAO/ProviderDbUtil.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/WSC/com/watersafety/web/DAO/ProviderDbUtil.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/WSC/com/watersafety/web/jdbc/AddBeachServlet.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/WSC/com/watersafety/web/jdbc/AddBeachServlet.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/WSC/com/watersafety/web/jdbc/AddProviderServlet.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/WSC/com/watersafety/web/jdbc/AddProviderServlet.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/WSC/com/watersafety/web/jdbc/SendEmail.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/WSC/com/watersafety/web/jdbc/SendEmail.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/WSC/com/watersafety/web/model/Provider.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/WSC/com/watersafety/web/model/Provider.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/watersafety/web/DAO/ProviderDao.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/watersafety/web/DAO/ProviderDao.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/watersafety/web/DAO/ProviderDbUtil.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/watersafety/web/DAO/ProviderDbUtil.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/watersafety/web/jdbc/AddBeachServlet.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/watersafety/web/jdbc/AddBeachServlet.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/watersafety/web/jdbc/AddProviderServlet.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/watersafety/web/jdbc/AddProviderServlet.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/watersafety/web/jdbc/SendEmail.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/watersafety/web/jdbc/SendEmail.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/watersafety/web/model/Provider.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/watersafety/web/model/Provider.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/Events.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/web/Events.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/META-INF/context.xml" beforeDir="false" afterPath="$PROJECT_DIR$/web/META-INF/context.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/addrecord.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/web/DI1bcr0CouU3VstY.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/admin.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/web/admin.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/css/landingCss.css" beforeDir="false" afterPath="$PROJECT_DIR$/web/css/landingCss.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/footer.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/web/footer.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/landingpage.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/web/landingpage.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/logo_img/IMG_5424.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/logo_img/SLSNSW_Portrait_CMYK.eps" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/logo_img/SSC_Logotype Crest_CMYK_NavyBlue.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/resource.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/web/resource.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/siwmmingpool.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/web/siwmmingpool.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/update_dialog.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/web/update_dialog.jsp" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -33,6 +92,12 @@
         <item name="water_safety@localhost" type="feb32156:DbDataSourceImpl" />
         <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
       </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="water_safety@localhost" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+        <item name="water_safety: schema" type="76f4a085:MysqlImplModel$Schema" />
+      </path>
     </expand>
     <select />
   </component>
@@ -50,6 +115,9 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/web/email.jsp" root0="FORCE_HIGHLIGHTING" root1="FORCE_HIGHLIGHTING" root2="FORCE_HIGHLIGHTING" />
   </component>
@@ -61,6 +129,7 @@
     <option name="CUSTOM_FILTER" />
   </component>
   <component name="ProjectId" id="1V8okarMCZIBxcA4GeoR5pWZrI4" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -69,6 +138,7 @@
   <component name="PropertiesComponent">
     <property name="DatabaseDriversLRU" value="mysql" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
@@ -76,7 +146,7 @@
     <property name="project.structure.last.edited" value="Artifacts" />
     <property name="project.structure.proportion" value="0.12315273" />
     <property name="project.structure.side.proportion" value="0.21634062" />
-    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
+    <property name="settings.editor.selected.configurable" value="project.propDebugger" />
   </component>
   <component name="RecentsManager">
     <key name="CreateClassDialog.RecentsKey">
@@ -423,6 +493,22 @@
       <workItem from="1583744650581" duration="172000" />
       <workItem from="1584531145911" duration="156000" />
       <workItem from="1585624354540" duration="417000" />
+      <workItem from="1585800356084" duration="773000" />
+      <workItem from="1586662189827" duration="7518000" />
+      <workItem from="1586926940865" duration="140000" />
+      <workItem from="1587088922096" duration="121000" />
+      <workItem from="1587299718271" duration="2794000" />
+      <workItem from="1587304565355" duration="441000" />
+      <workItem from="1587799751753" duration="1840000" />
+      <workItem from="1588749446657" duration="3000" />
+      <workItem from="1588862889352" duration="27000" />
+      <workItem from="1588998596875" duration="1856000" />
+      <workItem from="1589096280053" duration="2941000" />
+      <workItem from="1589200329734" duration="236000" />
+      <workItem from="1589541648968" duration="24000" />
+      <workItem from="1589631638103" duration="1525000" />
+      <workItem from="1589639713869" duration="412000" />
+      <workItem from="1592450395202" duration="437000" />
     </task>
     <servers />
   </component>
@@ -430,156 +516,26 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="427" y="137" key="#Notifications" timestamp="1582250632352">
-      <screen x="0" y="0" width="1920" height="1080" />
-    </state>
-    <state x="320" y="114" key="#Notifications/0.0.1440.900@0.0.1440.900" timestamp="1578291322952" />
-    <state x="427" y="137" key="#Notifications/0.0.1920.1080@0.0.1920.1080" timestamp="1582250632352" />
-    <state x="0" y="0" width="1440" height="900" key="#Project_Structure" timestamp="1582514594059">
+    <state x="489" y="283" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1589001969316">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state x="0" y="0" width="1440" height="900" key="#Project_Structure/0.0.1440.900@0.0.1440.900" timestamp="1582514594059" />
-    <state x="427" y="137" key="#Template_Data_Languages" timestamp="1577513399483">
-      <screen x="0" y="0" width="1920" height="1080" />
-    </state>
-    <state x="427" y="137" key="#Template_Data_Languages/0.0.1920.1080@0.0.1920.1080" timestamp="1577513399483" />
-    <state x="184" y="111" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1577346411079">
+    <state x="489" y="283" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1440.900@0.0.1440.900" timestamp="1589001969316" />
+    <state width="1282" height="530" key="GridCell.Tab.0.bottom/0.23.1920.1018@0.23.1920.1018" timestamp="1589099474582" />
+    <state width="1282" height="530" key="GridCell.Tab.0.center/0.23.1920.1018@0.23.1920.1018" timestamp="1589099474580" />
+    <state width="1282" height="530" key="GridCell.Tab.0.left/0.23.1920.1018@0.23.1920.1018" timestamp="1589099474579" />
+    <state width="1282" height="530" key="GridCell.Tab.0.right/0.23.1920.1018@0.23.1920.1018" timestamp="1589099474581" />
+    <state width="1282" height="530" key="GridCell.Tab.1.bottom/0.23.1920.1018@0.23.1920.1018" timestamp="1589099474584" />
+    <state width="1282" height="530" key="GridCell.Tab.1.center/0.23.1920.1018@0.23.1920.1018" timestamp="1589099474583" />
+    <state width="1282" height="530" key="GridCell.Tab.1.left/0.23.1920.1018@0.23.1920.1018" timestamp="1589099474582" />
+    <state width="1282" height="530" key="GridCell.Tab.1.right/0.23.1920.1018@0.23.1920.1018" timestamp="1589099474583" />
+    <state width="1282" height="530" key="GridCell.Tab.2.bottom/0.23.1920.1018@0.23.1920.1018" timestamp="1589099474586" />
+    <state width="1282" height="530" key="GridCell.Tab.2.center/0.23.1920.1018@0.23.1920.1018" timestamp="1589099474585" />
+    <state width="1282" height="530" key="GridCell.Tab.2.left/0.23.1920.1018@0.23.1920.1018" timestamp="1589099474585" />
+    <state width="1282" height="530" key="GridCell.Tab.2.right/0.23.1920.1018@0.23.1920.1018" timestamp="1589099474586" />
+    <state x="313" y="63" key="SettingsEditor" timestamp="1592450568614">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state x="184" y="111" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1440.900@0.0.1440.900" timestamp="1577346411079" />
-    <state x="652" y="340" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1582864664599">
-      <screen x="0" y="0" width="1920" height="1080" />
-    </state>
-    <state x="652" y="340" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1080@0.0.1920.1080" timestamp="1582864664599" />
-    <state x="711" y="206" key="#com.intellij.ide.util.MemberChooser" timestamp="1582112010377">
-      <screen x="0" y="0" width="1920" height="1080" />
-    </state>
-    <state x="533" y="172" key="#com.intellij.ide.util.MemberChooser/0.0.1440.900@0.0.1440.900" timestamp="1579067838677" />
-    <state x="711" y="206" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1080@0.0.1920.1080" timestamp="1582112010377" />
-    <state width="1282" height="443" key="GridCell.Tab.0.bottom" timestamp="1585800539276">
-      <screen x="0" y="0" width="1920" height="1080" />
-    </state>
-    <state width="949" height="356" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1583318445585" />
-    <state width="1282" height="443" key="GridCell.Tab.0.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1585800539276" />
-    <state width="949" height="581" key="GridCell.Tab.0.bottom/0.23.1440.838@0.23.1440.838" timestamp="1582515730799" />
-    <state width="1282" height="443" key="GridCell.Tab.0.center" timestamp="1585800539275">
-      <screen x="0" y="0" width="1920" height="1080" />
-    </state>
-    <state width="949" height="356" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1583318445584" />
-    <state width="1282" height="443" key="GridCell.Tab.0.center/0.0.1920.1080@0.0.1920.1080" timestamp="1585800539275" />
-    <state width="949" height="581" key="GridCell.Tab.0.center/0.23.1440.838@0.23.1440.838" timestamp="1582515730797" />
-    <state width="1282" height="443" key="GridCell.Tab.0.left" timestamp="1585800539274">
-      <screen x="0" y="0" width="1920" height="1080" />
-    </state>
-    <state width="949" height="356" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1583318445583" />
-    <state width="1282" height="443" key="GridCell.Tab.0.left/0.0.1920.1080@0.0.1920.1080" timestamp="1585800539274" />
-    <state width="949" height="581" key="GridCell.Tab.0.left/0.23.1440.838@0.23.1440.838" timestamp="1582515730796" />
-    <state width="1282" height="443" key="GridCell.Tab.0.right" timestamp="1585800539276">
-      <screen x="0" y="0" width="1920" height="1080" />
-    </state>
-    <state width="949" height="356" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1583318445585" />
-    <state width="1282" height="443" key="GridCell.Tab.0.right/0.0.1920.1080@0.0.1920.1080" timestamp="1585800539276" />
-    <state width="949" height="581" key="GridCell.Tab.0.right/0.23.1440.838@0.23.1440.838" timestamp="1582515730798" />
-    <state width="1282" height="443" key="GridCell.Tab.1.bottom" timestamp="1585800539051">
-      <screen x="0" y="0" width="1920" height="1080" />
-    </state>
-    <state width="949" height="356" key="GridCell.Tab.1.bottom/0.0.1440.900@0.0.1440.900" timestamp="1583318445588" />
-    <state width="1282" height="443" key="GridCell.Tab.1.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1585800539051" />
-    <state width="949" height="581" key="GridCell.Tab.1.bottom/0.23.1440.838@0.23.1440.838" timestamp="1582515730801" />
-    <state width="1282" height="443" key="GridCell.Tab.1.center" timestamp="1585800539050">
-      <screen x="0" y="0" width="1920" height="1080" />
-    </state>
-    <state width="949" height="356" key="GridCell.Tab.1.center/0.0.1440.900@0.0.1440.900" timestamp="1583318445587" />
-    <state width="1282" height="443" key="GridCell.Tab.1.center/0.0.1920.1080@0.0.1920.1080" timestamp="1585800539050" />
-    <state width="949" height="581" key="GridCell.Tab.1.center/0.23.1440.838@0.23.1440.838" timestamp="1582515730800" />
-    <state width="1282" height="443" key="GridCell.Tab.1.left" timestamp="1585800539049">
-      <screen x="0" y="0" width="1920" height="1080" />
-    </state>
-    <state width="949" height="356" key="GridCell.Tab.1.left/0.0.1440.900@0.0.1440.900" timestamp="1583318445586" />
-    <state width="1282" height="443" key="GridCell.Tab.1.left/0.0.1920.1080@0.0.1920.1080" timestamp="1585800539049" />
-    <state width="949" height="581" key="GridCell.Tab.1.left/0.23.1440.838@0.23.1440.838" timestamp="1582515730799" />
-    <state width="1282" height="443" key="GridCell.Tab.1.right" timestamp="1585800539050">
-      <screen x="0" y="0" width="1920" height="1080" />
-    </state>
-    <state width="949" height="356" key="GridCell.Tab.1.right/0.0.1440.900@0.0.1440.900" timestamp="1583318445588" />
-    <state width="1282" height="443" key="GridCell.Tab.1.right/0.0.1920.1080@0.0.1920.1080" timestamp="1585800539050" />
-    <state width="949" height="581" key="GridCell.Tab.1.right/0.23.1440.838@0.23.1440.838" timestamp="1582515730801" />
-    <state width="1282" height="443" key="GridCell.Tab.2.bottom" timestamp="1585800539053">
-      <screen x="0" y="0" width="1920" height="1080" />
-    </state>
-    <state width="949" height="356" key="GridCell.Tab.2.bottom/0.0.1440.900@0.0.1440.900" timestamp="1583318445590" />
-    <state width="1282" height="443" key="GridCell.Tab.2.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1585800539053" />
-    <state width="949" height="581" key="GridCell.Tab.2.bottom/0.23.1440.838@0.23.1440.838" timestamp="1582515730804" />
-    <state width="1282" height="443" key="GridCell.Tab.2.center" timestamp="1585800539052">
-      <screen x="0" y="0" width="1920" height="1080" />
-    </state>
-    <state width="949" height="356" key="GridCell.Tab.2.center/0.0.1440.900@0.0.1440.900" timestamp="1583318445589" />
-    <state width="1282" height="443" key="GridCell.Tab.2.center/0.0.1920.1080@0.0.1920.1080" timestamp="1585800539052" />
-    <state width="949" height="581" key="GridCell.Tab.2.center/0.23.1440.838@0.23.1440.838" timestamp="1582515730803" />
-    <state width="1282" height="443" key="GridCell.Tab.2.left" timestamp="1585800539052">
-      <screen x="0" y="0" width="1920" height="1080" />
-    </state>
-    <state width="949" height="356" key="GridCell.Tab.2.left/0.0.1440.900@0.0.1440.900" timestamp="1583318445589" />
-    <state width="1282" height="443" key="GridCell.Tab.2.left/0.0.1920.1080@0.0.1920.1080" timestamp="1585800539052" />
-    <state width="949" height="581" key="GridCell.Tab.2.left/0.23.1440.838@0.23.1440.838" timestamp="1582515730802" />
-    <state width="1282" height="443" key="GridCell.Tab.2.right" timestamp="1585800539053">
-      <screen x="0" y="0" width="1920" height="1080" />
-    </state>
-    <state width="949" height="356" key="GridCell.Tab.2.right/0.0.1440.900@0.0.1440.900" timestamp="1583318445590" />
-    <state width="1282" height="443" key="GridCell.Tab.2.right/0.0.1920.1080@0.0.1920.1080" timestamp="1585800539053" />
-    <state width="949" height="581" key="GridCell.Tab.2.right/0.23.1440.838@0.23.1440.838" timestamp="1582515730803" />
-    <state width="1282" height="719" key="GridCell.Tab.3.bottom" timestamp="1582247547003">
-      <screen x="0" y="0" width="1920" height="1080" />
-    </state>
-    <state width="949" height="270" key="GridCell.Tab.3.bottom/0.0.1440.900@0.0.1440.900" timestamp="1579082845778" />
-    <state width="1282" height="719" key="GridCell.Tab.3.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1582247547003" />
-    <state width="1282" height="719" key="GridCell.Tab.3.center" timestamp="1582247547002">
-      <screen x="0" y="0" width="1920" height="1080" />
-    </state>
-    <state width="949" height="270" key="GridCell.Tab.3.center/0.0.1440.900@0.0.1440.900" timestamp="1579082845777" />
-    <state width="1282" height="719" key="GridCell.Tab.3.center/0.0.1920.1080@0.0.1920.1080" timestamp="1582247547002" />
-    <state width="1282" height="719" key="GridCell.Tab.3.left" timestamp="1582247547002">
-      <screen x="0" y="0" width="1920" height="1080" />
-    </state>
-    <state width="949" height="270" key="GridCell.Tab.3.left/0.0.1440.900@0.0.1440.900" timestamp="1579082845776" />
-    <state width="1282" height="719" key="GridCell.Tab.3.left/0.0.1920.1080@0.0.1920.1080" timestamp="1582247547002" />
-    <state width="1282" height="719" key="GridCell.Tab.3.right" timestamp="1582247547003">
-      <screen x="0" y="0" width="1920" height="1080" />
-    </state>
-    <state width="949" height="270" key="GridCell.Tab.3.right/0.0.1440.900@0.0.1440.900" timestamp="1579082845777" />
-    <state width="1282" height="719" key="GridCell.Tab.3.right/0.0.1920.1080@0.0.1920.1080" timestamp="1582247547003" />
-    <state width="949" height="200" key="GridCell.Tab.4.bottom" timestamp="1578808871511">
-      <screen x="0" y="0" width="1440" height="900" />
-    </state>
-    <state width="949" height="200" key="GridCell.Tab.4.bottom/0.0.1440.900@0.0.1440.900" timestamp="1578808871511" />
-    <state width="949" height="200" key="GridCell.Tab.4.center" timestamp="1578808871510">
-      <screen x="0" y="0" width="1440" height="900" />
-    </state>
-    <state width="949" height="200" key="GridCell.Tab.4.center/0.0.1440.900@0.0.1440.900" timestamp="1578808871510" />
-    <state width="949" height="200" key="GridCell.Tab.4.left" timestamp="1578808871509">
-      <screen x="0" y="0" width="1440" height="900" />
-    </state>
-    <state width="949" height="200" key="GridCell.Tab.4.left/0.0.1440.900@0.0.1440.900" timestamp="1578808871509" />
-    <state width="949" height="200" key="GridCell.Tab.4.right" timestamp="1578808871510">
-      <screen x="0" y="0" width="1440" height="900" />
-    </state>
-    <state width="949" height="200" key="GridCell.Tab.4.right/0.0.1440.900@0.0.1440.900" timestamp="1578808871510" />
-    <state x="417" y="226" key="SettingsEditor" timestamp="1585624575074">
-      <screen x="0" y="0" width="1920" height="1080" />
-    </state>
-    <state x="50" y="63" key="SettingsEditor/0.0.1440.900@0.0.1440.900" timestamp="1583318159060" />
-    <state x="417" y="226" key="SettingsEditor/0.0.1920.1080@0.0.1920.1080" timestamp="1585624575074" />
-    <state x="110" y="322" key="com.intellij.javaee.MapExternalResourceDialog" timestamp="1577514776427">
-      <screen x="0" y="0" width="1920" height="1080" />
-    </state>
-    <state x="110" y="322" key="com.intellij.javaee.MapExternalResourceDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1577514776427" />
-    <state x="547" y="103" width="803" height="858" key="find.popup" timestamp="1582109395060">
-      <screen x="0" y="23" width="1920" height="1018" />
-    </state>
-    <state x="547" y="103" width="803" height="858" key="find.popup/0.23.1920.1018@0.23.1920.1018" timestamp="1582109395060" />
-    <state x="385" y="196" width="670" height="676" key="search.everywhere.popup" timestamp="1578551638389">
-      <screen x="0" y="0" width="1440" height="900" />
-    </state>
-    <state x="385" y="196" width="670" height="676" key="search.everywhere.popup/0.0.1440.900@0.0.1440.900" timestamp="1578551638389" />
+    <state x="313" y="63" key="SettingsEditor/0.0.1440.900@0.0.1440.900" timestamp="1592450568614" />
+    <state x="417" y="226" key="SettingsEditor/0.0.1920.1080@0.0.1920.1080" timestamp="1589640038896" />
   </component>
 </project>

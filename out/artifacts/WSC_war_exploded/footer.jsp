@@ -82,8 +82,11 @@
 <%--    <!-- Footer Links -->--%>
 
     <!-- Copyright -->
-    <div class="footer-copyright text-center" style="margin-top: 25%" >© 2019 Copyright:
-        <a href="https://advancediversity.org.au/">Advanced Diversity Service</a>
+    <div class="footer-copyright text-center" style="margin-top: 15%" >
+        © 2020 Copyright: <a href="https://advancediversity.org.au/">South East Sydney Multicultural Water Safety Committee</a>
+        <p>This website was designed and created by Yuze Yang, Wenhui Li, Qianchen Li and Jiawei Ye as part of the University of Technology Sydney's Shopfront initiative</p>
+
+
     </div>
     <!-- Copyright -->
 

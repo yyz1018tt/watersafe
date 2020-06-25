@@ -51,17 +51,18 @@ public class AddBeachServlet extends HttpServlet {
             String phone="N/A";
             String email="N/A";
             String website=request.getParameter("website");
+            String map=request.getParameter("map");
 
             if(id.isEmpty())
             {
                 db.addProvider(region,type,resName,note,address,suburb,postcode,contactPerson,
-                        phone,email,website);
+                        phone,email,website,map);
             }
 
             else
             {
                 db.updateProvider(Integer.parseInt(id),region,type,resName,note,address,suburb,postcode,contactPerson,
-                        phone,email,website);
+                        phone,email,website,map);
             }
             connection.close();
         }

@@ -50,6 +50,7 @@
         <th field="phone">Phone</th>
         <th field="email">Email</th>
         <th field="website">Website</th>
+        <th field="map" style="display: none">Map</th>
 
     </tr>
     </thead>
@@ -69,6 +70,7 @@
             <td>${provider.phone}</td>
             <td>${provider.email}</td>
             <td>${provider.website}</td>
+            <td style="display: none">${provider.map}</td>
         </tr>
     </c:forEach>
 </table>

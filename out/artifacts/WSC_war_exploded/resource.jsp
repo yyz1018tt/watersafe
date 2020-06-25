@@ -36,7 +36,7 @@
                 </select>
             </div>
             <div class="col-sm-3">
-                <label class="mb-1 lead"><h6><i class="fab fa-medium"></i> Type of Source</h6></label>
+                <label class="mb-1 lead"><h6><i class="fab fa-medium"></i> Type of resource</h6></label>
                 <select multiple data-style="bg-white shadow-sm p-1" data-live-search="true"
                         class="selectpicker" name="selectSource">
                     <c:forEach var="source" items="${SOURCES}">
@@ -56,6 +56,12 @@
             <div style="margin-top: 3%">
                 <input type="submit" value="Search" class="btn btn-success btn-sm">
             </div>
+        </div>
+    </form>
+
+    <form action="/resource" method="get" style="margin-left: 85%; margin-top: -4.3%" >
+        <div>
+            <input type="submit" value="Clear Filter" class="btn btn-success btn-sm">
         </div>
     </form>
 

@@ -42,8 +42,9 @@ public class ProviderDao
             String phone=resultSet.getString("phone");
             String email=resultSet.getString("email");
             String website=resultSet.getString("website");
+            String map=resultSet.getString("map");
 
-            providerFromDB=new Provider(id,region,type,resName,note,address,suburb,postcode,contactPerson,phone,email,website);
+            providerFromDB=new Provider(id,region,type,resName,note,address,suburb,postcode,contactPerson,phone,email,website,map);
             providers.add(providerFromDB);
         }
         resultSet.close();
@@ -52,11 +53,11 @@ public class ProviderDao
 
     //add a new provider code
     public void addProvider(String region, String type, String resName, String note, String address, String suburb, String postcode,
-                            String contactPerson, String phone, String email, String website) throws SQLException
+                            String contactPerson, String phone, String email, String website, String map) throws SQLException
     {
-        String createdQuery="insert into providers (region, type, res_name, note, address, suburb, postcode, contact_person, phone, email, website)" +
+        String createdQuery="insert into providers (region, type, res_name, note, address, suburb, postcode, contact_person, phone, email, website, map)" +
                 "values('"+region+"','"+type+"','"+resName+"','"+note+"','"+address+"','"+suburb+"','"+postcode+"','"+contactPerson+"'," +
-                "'"+phone+"','"+email+"','"+website+"')";
+                "'"+phone+"','"+email+"','"+website+"', '"+map+"')";
 
         boolean isCreated=statement.executeUpdate(createdQuery)>0;
 //        if(isCreated)
@@ -67,9 +68,9 @@ public class ProviderDao
 
     //update a provider code
     public void updateProvider(int id,String region,String type,String resName,String note,String address,String suburb,String postcode,
-                               String contactPerson,String phone,String email,String website) throws SQLException
+                               String contactPerson,String phone,String email,String website, String map) throws SQLException
     {
-        String updatedQuery="update providers set region='"+region+"',type='"+type+"',res_name='"+resName+"',note='"+note+"',address='"+address+"',suburb='"+suburb+"',postcode='"+postcode+"',contact_person='"+contactPerson+"',phone='"+phone+"',email='"+email+"',website='"+website+"'" +
+        String updatedQuery="update providers set region='"+region+"',type='"+type+"',res_name='"+resName+"',note='"+note+"',address='"+address+"',suburb='"+suburb+"',postcode='"+postcode+"',contact_person='"+contactPerson+"',phone='"+phone+"',email='"+email+"',website='"+website+"',map='"+map+"'" +
                 "where id="+id;
 
         boolean isUpdated=statement.executeUpdate(updatedQuery)>0;

@@ -111,12 +111,12 @@
                 </div>
             </div>
             <div class="col-md-5">
-                <h2> Key safety messages for being safe in the water</h2>
-                <p>For water-related emergencies, ring 000</p>
-                <p>Learn about the waterway </p>
+                <h2> Key safety messages for being safe in and around the water</h2>
+                <p>Learn to swim and learn CPR</p>
                 <p>Never swim alone</p>
-                <p>Learn CPR and learn to swim</p>
-                <p>Don’t do water activities after alcohol and other drugs</p>
+                <p>Avoid alcohol and drugs around water</p>
+                <p>Know your limits and check for danger before swimming</p>
+                <p>In an emergency, call 000</p>
             </div>
         </div>
         <hr class="divider">
@@ -128,6 +128,7 @@
                 <p>Read the safety signs</p>
                 <p>Ask the lifeguards for safety advice</p>
                 <p>If you need help, stay calm and signal for help</p>
+                <p>Be Sun Smart - wear sunscreen, hat, and sunglasses</p>
             </div>
             <div class="col-md-7">
                 <div class="cover">
@@ -191,33 +192,67 @@
             </div>
             <div class="column right">
                     <p><b>The South East Sydney Multicultural Water Safety Committee is made up of the following organisations: </b></p>
-                    <div class="logo_box">
-                        <img src="logo_img/ADS Logo - Horizontal - JPG.jpg" alt="" width="25.2%" height="24.1%">
+<%--                    <div class="logo_box">--%>
+<%--                        <img src="logo_img/ADS Logo - Horizontal - JPG.jpg" alt="" width="25.2%" height="24.1%">--%>
 
-                        <img src="logo_img/AWATW(Logo).jpg" width="24.7%" height="23.8%">
+<%--                        <img src="logo_img/AWATW(Logo).jpg" width="24.7%" height="23.8%">--%>
 
-                        <img src="logo_img/Bayside Council Logo SQ COL.jpg" width="22%" height="26.2%">
+<%--                        <img src="logo_img/Bayside Council Logo SQ COL.jpg" width="22%" height="26.2%">--%>
 
-                        <img src="logo_img/GRC.png" alt="" width="24%" height="24%">
+<%--                        <img src="logo_img/GRC.png" alt="" width="24%" height="24%">--%>
 
-                        <img src="logo_img/RCC LOGO_Stacked_COLOUR_RGB .jpg" width="24%" height="24%">
+<%--                        <img src="logo_img/RCC LOGO_Stacked_COLOUR_RGB .jpg" width="24%" height="24%">--%>
 
-                        <img src="logo_img/Gymea logo.png" alt="" width="20%" height="27.8%">
+<%--                        <img src="logo_img/Gymea logo.png" alt="" width="20%" height="27.8%">--%>
 
-                        <img src="logo_img/KCS.png" alt="" width="23.5%" height="21%">
+<%--                        <img src="logo_img/KCS.png" alt="" width="23.5%" height="21%">--%>
 
-                        <img src="logo_img/IMG_5424.JPG" width="20%" height="14.6%">
+<%--                        <img src="logo_img/IMG_5424.JPG" width="20%" height="14.6%">--%>
 
-                        <img src="logo_img/SSC_Logotype Crest_CMYK_NavyBlue.jpg" width="60%" height="46%">
+<%--                        <img src="logo_img/SSC_Logotype Crest_CMYK_NavyBlue.jpg" width="60%" height="46%">--%>
 
-                        <img src="logo_img/Sydney MCS.png" width="23%" height="24.5%">
+<%--                        <img src="logo_img/Sydney MCS.png" width="23%" height="24.5%">--%>
 
-                        <img src="logo_img/TAFE NSW NEW WARATAH LOCKUP NOV 2017 CMYK.jpg" width="45%" height="36%">
+<%--                        <img src="logo_img/TAFE NSW NEW WARATAH LOCKUP NOV 2017 CMYK.jpg" width="45%" height="36%">--%>
 
-                        <img src="logo_img/RLS_NewMainLogo_NSW.jpg" width="45%" height="35.1%">
-                    </div>
+<%--                        <img src="logo_img/RLS_NewMainLogo_NSW.jpg" width="45%" height="35.1%">--%>
+<%--                    </div>--%>
+<%--                <br>--%>
+<%--                <p><b>This website is financially supported by: </b></p>--%>
+<%--                <div class="logo_box">--%>
+<%--                    <img src="logo_img/GRC.png" alt="" width="24%" height="24%">--%>
+
+<%--                    <img src="logo_img/RCC LOGO_Stacked_COLOUR_RGB .jpg" width="24%" height="24%">--%>
+
+<%--                    <img src="logo_img/RLS_NewMainLogo_NSW.jpg" width="45%" height="35.1%">--%>
+
+<%--                    <img src="logo_img/IMG_5424.JPG" width="20%" height="14.6%">--%>
+<%--                </div>--%>
+                <div class="logo_box">
+                    <img src="logo_img/ADS Logo - Horizontal - JPG.jpg" width="25.2%">
+                    <img src="logo_img/AWATW(Logo).jpg" width="24.7%">
+                    <img src="logo_img/Bayside Council Logo SQ COL.jpg" width="22%">
+                    <img src="logo_img/GRC.png" alt="" width="24%">
+                    <img src="logo_img/RCC LOGO_Stacked_COLOUR_RGB .jpg" width="24%">
+                    <img src="logo_img/Gymea logo.png" alt="" width="20%">
+                    <img src="logo_img/KCS.png" alt="" width="23.5%">
+                    <img src="logo_img/SLSNSW_Portrait_CMYK.jpg" width="20%">
+                    <img src="logo_img/Council_Logo_Small_Dark_Blue.png" width="20%">
+                    <img src="logo_img/Sydney MCS.png" width="23%">
+                    <img src="logo_img/TAFE NSW NEW WARATAH LOCKUP NOV 2017 CMYK.jpg" width="45%">
+                    <img src="logo_img/RLS_NewMainLogo_NSW.jpg" width="45%">
+                </div>
                 <br>
                 <p><b>This website is financially supported by: </b></p>
+                <div class="logo_box">
+                    <img src="logo_img/GRC.png" alt="" width="24%" height="24%">
+
+                    <img src="logo_img/RCC LOGO_Stacked_COLOUR_RGB .jpg" width="24%" height="24%">
+
+                    <img src="logo_img/RLS_NewMainLogo_NSW.jpg" width="45%" height="35.1%">
+
+                    <img src="logo_img/SLSNSW_Portrait_CMYK.jpg" width="20%" height="14.6%">
+                </div>
             </div>
         </div>
     </div>
@@ -228,21 +263,18 @@
     <h1>Contact Us</h1>
     <br>
 
-    <a>An online version of this directory, which includes more information on events, workshops and courses, can be found at <a href="https://www.advancediversity.org.au">Advance Diversity Service</a> or <a href="http://www.gymeacommunityaid.org.au"> Gymea Community Aid & Information Service </a>official websites.</a>
-
-    <br>
-    <br>
+<%--    <a>An online version of this directory, which includes more information on events, workshops and courses, can be found at <a href="https://www.advancediversity.org.au">Advance Diversity Service</a> or <a href="http://www.gymeacommunityaid.org.au"> Gymea Community Aid & Information Service </a>official websites.</a>--%>
     <b>For more information, please contact:</b>
     <div class="row container">
         <div class="column left">
-            Advance Diversity Services <br>info@advancediversity.org.au <br>(02) 9597 5455 <br>
-        </div>
-        <div class="column right">
-            Gymea Community Aid and Information Service <br> settlement@gcais.ngo.org.au <br>(02) 9524 9559
+            <b>Surf Life Saving NSW Community Education Team</b> <br>Isam AI-Handola (Cultural Education Officer) <br>
+            <b>E-Mail:</b> Ial-handola@surflifesaving.com.au <br><b>Mob:</b>  0429614873 <br>
+            <b>Phone:</b> (02) 9471 8085 <br> <b>Mailing Address:</b> PO Box 307 | Belrose NSW 2085 <br>
+            <b>SLSNSW Head-Office Address:</b> 3 Narabang Way, Belrose NSW 2085
         </div>
     </div>
 
-    <p style="text-align: left; font-weight: bold">If you would like to submit a resource for inclusion in the directory, plesase fill in the form below with as much relevant information as possible.</p>
+    <p style="text-align: left; font-weight: bold">If you would like to submit a resource for inclusion in the directory, please fill in the form below with as much relevant information as possible.</p>
 
 
     <form action="/email" method="post" class="mt-3">
@@ -305,13 +337,7 @@
     </form>
 </div>
 
-<div class="footer-copyright text-center" style="margin-top: 25%" >© 2019 Copyright:
-    <a href="#">Advanced Diversity</a>
-</div>
-
-<%--<script src="js/jquery.min.js"></script>--%>
-<!-- <script src="js/creative.min.js"></script> -->
-<%--<script src="js/bootstrap.bundle.min.js"></script>--%>
+<%@ include file="footer.jsp" %>
 
 <script>
     $(function()

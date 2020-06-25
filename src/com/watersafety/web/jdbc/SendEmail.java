@@ -58,7 +58,7 @@ public class SendEmail extends HttpServlet {
             String final_text = title1 + "<b>Name:</b> " + name + "    " + "<br><b>Email:</b> " + contact_person_email + "<br><b>Phone:</b> " + contact_person_phone +  "    " + title2 + "<b>Location:</b> " + location
                     + " <br><b>Type:</b> " + type + " <br><b>Language:</b> " + language + " <br><b>Link:</b> " + link + " <br><b>Contact of Resource:</b> "
                     + contact_resource + "<br><b>Additional Info:</b> " + add_info;
-            String wish = "<br><br>Please note that this information has not yet been added to the website. Please go to www.watersafe.org.au/addrecord.jsp to manually add it.";
+            String wish = "<br><br>Please note that this information has not yet been added to the website. Please go to www.watersafe.org.au/DI1bcr0CouU3VstY.jsp to manually add it.";
             String msg = greet + final_text + wish;
             message.setContent(msg, "text/html");
             message.setSubject("New submission for water safety directory");

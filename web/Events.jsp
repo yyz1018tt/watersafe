@@ -185,7 +185,7 @@
 
     <form action="/event" method="get" style="margin-left: 50%; margin-top: -2.7%" >
         <div>
-            <input type="submit" value="List all" class="btn btn-outline-success btn-sm">
+            <input type="submit" value="Clear Filter" class="btn btn-success btn-sm">
         </div>
     </form>
 
@@ -235,7 +235,9 @@
                             <p style="font-weight: bolder;">Cost: ${event.getCost()}</p>
                             <p style="font-weight: bolder;">Frequency: ${event.getTime()}</p>
                             <p style="font-weight: bolder;">Contact details: ${event.getContact()}</p>
-                            <p>Available at ${event.getOrganisation()}</p>
+                            <p style="font-weight: bolder;">Phone number: ${event.getPhone()}</p>
+                            <p style="font-weight: bolder;">Email: ${event.getEmail()}</p>
+                            <p style="font-weight: bolder;">Run by:  ${event.getOrganisation()}</p>
                             <p><i class="fas fa-at"></i> <a href="${event.getWebsite()}">${event.getWebsite()}</a></p>
                         </div>
                     </div>
@@ -258,7 +260,9 @@
                             <p style="font-weight: bolder;">Cost: ${event.getCost()}</p>
                             <p style="font-weight: bolder;">Frequency: ${event.getTime()}</p>
                             <p style="font-weight: bolder;">Contact details: ${event.getContact()}</p>
-                            <p>Available at ${event.getOrganisation()}</p>
+                            <p style="font-weight: bolder;">Phone number: ${event.getPhone()}</p> 
+                            <p style="font-weight: bolder;">Email: ${event.getEmail()}</p>
+                            <p style="font-weight: bolder;">Run by:  ${event.getOrganisation()}</p>
                             <p><i class="fas fa-at"></i> <a href="${event.getWebsite()}">${event.getWebsite()}</a></p>
                         </div>
                     </div>
@@ -273,7 +277,7 @@
         <p>No result found</p>
     </c:if>
 </div>
-<%--<%@ include file="footer.jsp" %>--%>
+<%@ include file="footer.jsp" %>
 <script src="resource.js"></script>
 </body>
 </html>
